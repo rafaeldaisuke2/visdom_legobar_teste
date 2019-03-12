@@ -1,0 +1,7 @@
+pip intall visdom
+
+Para iniciar o servidor do visdom, digite no terminal:
+
+> visdom
+
+Após isso a interface pode ser acessada no navegador, como padrão, em http://localhost:8097
